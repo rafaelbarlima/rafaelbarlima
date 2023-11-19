@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Rafael and i'm learning .Net. 
+Here you can find my projects and take a look on what i'm curently developing.
+If you want to contact me, feel free to leave a message or talk to with through my Linkedin.
+Lets keep in touch! 😄
 
 <!--
 **rafaelbarlima/rafaelbarlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
